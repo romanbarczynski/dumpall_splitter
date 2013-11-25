@@ -7,8 +7,8 @@ PostgreSQL pg_dumpall SQL backup files splitter
 Usage
 -----
 
-`bzcat dump.sql.bz2 | dumpall_splitter
-dumpall_splitter < dump.sql`
+> bzcat dump.sql.bz2 | dumpall_splitter
+> dumpall_splitter < dump.sql
 
 
 Files
